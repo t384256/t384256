@@ -1,0 +1,19 @@
+.title{
+    padding:10px;
+    background-color:#cccccc;
+    font-size:24px;font-weight:bold;
+    text-align:center;
+    width:15%;
+    margin:auto
+}
+.title-1{
+    background-color:#cccccc;
+    font-size:20px;
+    font-weight:bold;
+    width:60%;
+    margin:auto
+}
+.content{
+    width:60%;
+    margin:auto
+}
